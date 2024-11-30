@@ -62,7 +62,7 @@ A user-friendly **Currency Converter** application that provides real-time curre
 
 ## Technologies Used 🛠️
 
--   **Frontend**: React.js
+-   **Frontend**: HTML, CSS and JavaScript
 -   **API Integration**: Currency exchange rates fetched using a reliable API (e.g., ExchangeRate-API).
 -   **Styling**: CSS for responsive and visually appealing design.
 
